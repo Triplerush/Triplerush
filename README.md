@@ -6,7 +6,6 @@
 _Building AI that ships to production._
 
 [![Open to opportunities](https://img.shields.io/badge/Status-Open%20to%20opportunities-22c55e?style=flat-square)](mailto:fernandorcm9@gmail.com)
-[![Location](https://img.shields.io/badge/Based%20in-Arequipa,%20PE-0ea5e9?style=flat-square)](https://maps.google.com/?q=Arequipa,Peru)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-fcanalm-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fcanalm)
 [![Email](https://img.shields.io/badge/Email-fernandorcm9%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:fernandorcm9@gmail.com)
 
@@ -85,29 +84,8 @@ Ingeniero backend evolucionando hacia AI Engineering. Diseño y llevo a producci
 
 ---
 
-### Roadmap
-
-```
-Fase 1 (hoy)   →  AI Backend / Applied ML Engineer       RAG, Docker, CI/CD para ML
-Fase 2 (1-3y)  →  AI Software Engineer / MLOps Engineer  Fine-tuning, agentes, continuous training
-Fase 3 (3-5y)  →  Principal AI Architect / Tech Lead     Arquitecturas multimodelo, gobernanza de IA
-```
-
----
-
-### Stats
-
 <div align="center">
 
-![Fernando's GitHub stats](https://github-readme-stats.vercel.app/api?username=Triplerush&show_icons=true&hide=contribs&count_private=false&hide_border=true&title_color=0ea5e9&icon_color=22c55e&text_color=cbd5e1&bg_color=0f172a)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Triplerush&layout=compact&hide_border=true&title_color=0ea5e9&text_color=cbd5e1&bg_color=0f172a&langs_count=8)
-
-</div>
-
----
-
-<div align="center">
-
-**¿Hablamos?** &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/fcanalm) &nbsp;·&nbsp; [Email](mailto:fernandorcm9@gmail.com) &nbsp;·&nbsp; Arequipa, Perú
+**¿Hablamos?** &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/fcanalm) &nbsp;·&nbsp; [Email](mailto:fernandorcm9@gmail.com)
 
 </div>
